@@ -1,5 +1,5 @@
 # CPCS223-Project-SearchAlgorithm
-# Algorithm Search Project (CPCS223 - Programming 2)
+# Algorithm Search Project (CPCS223 - Algorithm 1)
 
 ## Project Overview
 This is a Java project that demonstrates different search algorithms on a randomly generated array.  
