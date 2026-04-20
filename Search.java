@@ -1,13 +1,6 @@
-package cpcs223_project;
-//Sheemah Alshalwi, ID: 2306353
-//Deema Alfadhli, ID: 2307731
-//Shahad Alshehri, ID: 2306119
-//Raghad Alamoudi, ID: 2308393
-//CAR
-
 import java.util.*;
 
-public class CPCS223_Project {
+public class MainClass {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
